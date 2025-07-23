@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proje-masirha/static/css/main.c9ce9dd6.css",
+    "main.js": "/proje-masirha/static/js/main.f2129747.js",
+    "index.html": "/proje-masirha/index.html",
+    "main.c9ce9dd6.css.map": "/proje-masirha/static/css/main.c9ce9dd6.css.map",
+    "main.f2129747.js.map": "/proje-masirha/static/js/main.f2129747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ce9dd6.css",
+    "static/js/main.f2129747.js"
+  ]
+}
